@@ -9,12 +9,12 @@ In this project I learned how to transform a Figma design into a fully functiona
 Figma Design: https://www.figma.com/file/lz9lLpFHMxHm2odnwM3R0z/gpt3?node-id=0%3A1
 
 Languages, Frameworks used:
--HTML
--SCSS/CSS
--ReactJS
--JavaScript
+- HTML
+- SCSS/CSS
+- ReactJS
+- JavaScript
 
 Technologies and Tools used:
--Figma
--CSS BEM Model
+- Figma
+- CSS BEM Model
 
